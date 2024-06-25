@@ -1,1 +1,11 @@
 # comment
+name: cds-environment
+dependencies:
+  - numpy
+  - cdsapi
+  - pandas
+  - netCDF4
+  - dask
+  - xarray
+  - matplotlib
+  - cartopy
