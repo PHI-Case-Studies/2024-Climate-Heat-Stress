@@ -9,3 +9,7 @@ dependencies:
   - xarray
   - matplotlib
   - cartopy
+  - pandas
+  - geopandas
+  - folium
+  - leafmap
