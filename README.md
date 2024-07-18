@@ -3,6 +3,9 @@
 ## Launch on MyBinder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PHI-Case-Studies/2024-Climate-Heat-Stress.git/HEAD)
 
+## Launch on Google CoLab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PHI-Case-Studies/2024-Climate-Heat-Stress.git/HEAD)
+
 ## TLDR;
 1. Obtain API key and UID from Copernicus
 2. Create `.cdsapirc` file in your home directory
