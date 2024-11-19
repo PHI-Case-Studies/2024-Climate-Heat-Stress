@@ -4,7 +4,7 @@
         "back": "Heat Stress is Heat stress occurs when the body's ability to cool itself is overwhelmed by the amount of heat it absorbs from the environment or produces internally. It can lead to heat-related illnesses like heat exhaustion, heat stroke, heat cramps, and heat rash."
     },
     {
-        "front": "What are urban heat islands ?", \\( S \\)",
+        "front": "What are urban heat islands ?",
         "back": "An urban heat island refers to a phenomenon where a city is significantly warmer than the surrounding rural areas, primarily due to the presence of heat-absorbing surfaces like asphalt roads, buildings, and concrete, which absorb sunlight during the day and release that heat slowly at night, creating a hot spot."
     },
     {
@@ -23,6 +23,6 @@
     {
         "front": "What is the Healthsites.io API ? ",
         "back": "The Healthsites.io API is an online interface that allows developers to access and utilize a global database of healthcare facility locations, providing details like coordinates, services offered, and contact information, primarily sourced from OpenStreetMap data. "
-    },
+    }
 
 ]
