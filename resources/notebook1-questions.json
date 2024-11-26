@@ -57,7 +57,7 @@
             },
             {
                 "answer": "heat-absorbing surfaces",
-                "correct": false,
+                "correct": true,
                 "feedback": "Correct"
             }
         ]
