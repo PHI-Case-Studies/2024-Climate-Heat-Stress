@@ -1,0 +1,174 @@
+[
+    {
+        "question": "What are some components of a typical Climate Data Store API request?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "import cdsapi",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "vacuum vortex parameter",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "specify the dataset name",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "request parameters such as product type, variable, time, format",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "initiate client and retrieve / download the file",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "How do we examine a netcdf file once we have downloaded it?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "use a python library called xarray with alias xr",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "use xr.open_dataset method to open the dataset",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "view a header with a few rows of the dataframe",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "view all rows and columns of the dataframe",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Open with excel",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "How can we visualize a temporal trend graph of average global temperature increase?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "use a python library called xarray to open the netcdf file",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "plug the netcdf4 file into a Google Search",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "use a python library called matplotlib to plot the trend graph",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "use other python libraries such as plotly or bokeh or hvplot",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "What are three python libraries that we could potentially use to plot maps of the netcdf file?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "We could use a python library called matplotlib",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "We could use a python library called folium",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "We could use a python library called camelot",
+                "correct": false,
+                "feedback": "Incorrect. we wish to plot a digital map but camelot is for reading tabular data from PDFs."
+            },
+            {
+                "answer": "We could use a python library called hvplot",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Why would we want to produce maps at various time scales (monthly, seasonally, annually) in terms of global heat stress and days of deadly heat?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "We may be interested in specific months and understanding the days of deadly heat within a single month or series of months",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "We may wish to examine the differences in days of deadly heat between seasons",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "We may need to know the annual days of deadly heat",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "We might believe that it is impossible to have more than 31 days of deadly heat",
+                "correct": false,
+                "feedback": "Incorrect.  Many parts of the world have well over 150 days of deadly heat, annually."
+            }
+        ]
+    },
+    {
+        "question": "What is a spatial join?",
+        "type": "multiple_choice",
+        "answer_cols": 1,
+        "answers": [
+            {
+                "answer": "a spatial join utilizes the spatial geometry of a table to join to the attributes of another table",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "a spatial join is a special join only done in outer space",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "a spatial join is a lot like welding",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "a spatial join is always fast and easy to accomplish",
+                "correct": false,
+                "feedback": "Incorrect. Spatial joins can take a lot of memory and time to accomplish."
+            }
+        ]
+    }
+]
