@@ -1,0 +1,28 @@
+[
+    {
+        "front": "What are some components of a typical Climate Data Store API request?",
+        "back": "A typical cdsapi request will do the following:  import the python library cdsapi, specify the dataset, form the request with parameters for product type, variable, year, month, time, and format, initiate the client, and retrieve / download the file."
+    },
+    {
+        "front": "How do we examine a netcdf file once we have downloaded it?",
+        "back": "If the file was retrieved as a zip file we may first need to extract the netcdf file from the zipfile.  Once we have the .nc file we can open the netcdf file using 
+the python library called xarray.  We can look at a header with just a few rows or we can look at the entire dataframe with all rows and columns."
+    },
+    {
+        "front": "How can we visualize a temporal trend graph of average global temperature increase? ",
+        "back": "We can start by importing the python library called xarray and assigning it an alias of xr.  Next we can import a python library called matplotlib and assign matplotlib an alias of plt. We can open the netcdffile using xarray and plot the variable on the trend graph using matplotlib.",
+    },
+    {
+        "front": "What are three python libraries that we could potentially use to plot maps of the netcdf file? ",
+        "back": " There are several python libraries that could be used for creating a map plot of the netcdf4 file including:  matplotlib, hvplot, folium, and leafmap."
+    }, 
+    {
+        "front": "Why would we want to produce maps at various time scales (monthly, seasonally, annually) in terms of global heat stress and days of deadly heat? ",
+        "back": "Some areas of the world may have consecutive months with many days above 35 degrees Celsius and a single month might only reflect the monthly maxium of 31 days of deadly heat.  The seasonal plots may have a maxium number of 93 days of deadly heat (per season), and the annual days of deadly heat would have a maximum of 365 days of deadly heat."
+    },
+    {
+        "front": "What is a spatial join? ",
+        "back": "We typically think of database joins in terms of structured query langugage (SQL) and in terms of primary keys and foreign keys that are attribute joins between two tables.
+The spatial join is an entirely different animal - in that it joins the two tables by the geometry of the spatial coordinates of the target dataset.  In notebook 2 we have performed a spatial join between the health facility shapefile and the netcdf4 temperature data so that we can know the days of deadly heat above 35 degrees Celsius for each health facility. "
+    }
+]
