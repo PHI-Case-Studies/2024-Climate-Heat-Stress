@@ -1,0 +1,169 @@
+[
+    {
+        "question": "Choose all of the following that can be symptoms of heat stress?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "heat exhaustion",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "heat stroke",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "heat cramps",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "heat rash",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "tennis elbow",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "Which of these features within cities contribute to urban heat islands?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "asphalt roads",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "buildings",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "trees",
+                "correct": false,
+                "feedback": "Incorrect, trees provide cooling shade and reduce urban heat islands."
+            },
+            {
+                "answer": "concrete",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "heat-absorbing surfaces",
+                "correct": false,
+                "feedback": "Correct"
+            }
+        ]
+    },
+    {
+        "question": "What types of data are available in the Copernicus Climate Data Store?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "climate data",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "credit rating data",
+                "correct": false,
+                "feedback": "Incorrect, the Climate Data Store does not have these data."
+            },
+            {
+                "answer": "satellite observations",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "climate model projections",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Choose all responses that are true regarding the Copernicus Climate Data Store API (cdsapi)?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "application programming interface",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "a mechanism for users to retrieve climate data",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Census data download tool",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Uses a programming language called Python",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Choose all responses that are true regarding the Healthsites.io?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "utilizes data from OpenStreetMap(OSM)",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "a free, open-source platform",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "creates and maintains a global map of health facilities",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "provides health insurance data",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "Choose all responses that are true regarding the Healthsites.io API?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "allows users to schedule medical appointments",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "allows users to write requests to retrieve health facility data",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "uses a programming language called Python",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "provides details such as coordinates and contact info",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    }
+]
