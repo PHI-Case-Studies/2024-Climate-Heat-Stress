@@ -1,0 +1,174 @@
+[
+    {
+        "question": "What are some of the most severe risks on a global scale over the next 10 years?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "Climate action failure",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Extreme weather",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Biodiversity Loss",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Infectious Disease morbidity and mortality increases",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Peace, Prosperity, Security, and Global Health",
+                "correct": false,
+                "feedback": "Incorrect.  Climate Change will threaten peace, prosperity, security, and global health"
+            }
+        ]
+    },
+    {
+        "question": "What are some of the important global environmental changes?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "Global Temperature Rise increases",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Global Heat Stress increases",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Sea-Level-Rise increases",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Air Pollution increases",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Biodiversity increases",
+                "correct": false,
+                "feedback": "Incorrect. Biodiversity will decline with climate change."
+            }
+        ]
+    },
+    {
+        "question": "What are some of the potential impacts to the HIV epidemic ",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "Increased Rates of HIV infection",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Increased access to HIV care and treatment.",
+                "correct": false,
+                "feedback": "Incorrect. Access to HIV care and treatment will decline with climate change."
+            },
+            {
+                "answer": "Decreased access to Prevention of Mother-to-Child Transmission preventative services",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Increased Gender-Based-Violence and Stigma and harms to individuals.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Who are some of the most vulnerable populations with regards to global heat stress ? ",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "Elderly populations and those above age 65 years.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Pregnant Women",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Foetuses and Newborns",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Indoor workers",
+                "correct": false,
+                "feedback": "Incorrect. Outdoor workers are at-risk with global heat stress."
+            }
+        ]
+    },
+    {
+        "question": "Which diseases are likely to have increases in morbidity and mortality rates with climate change and global heat stress ? ",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "Infectious Diseases such as HIV and TB",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Vector-diseases such as Malaria",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Diarrheal diseases such as Cholera",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Influenza",
+                "correct": false,
+                "feedback": "Incorrect. Influenza rates may potentially drop as the climate warms."
+            }
+        ]
+    },
+    {
+        "question": "Why is Sea-Level-Rise such a signficant threat with climate change ? ",
+        "type": "multiple_choice",
+        "answer_cols": 1,
+        "answers": [
+            {
+                "answer": "Exacerbate severe weather and cyclones",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Contamination of agricultural fields and fresh waterways with sea-water",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Damage to health facilities and health infrastructure",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Short-term tidal surges may be a good thing",
+                "correct": false,
+                "feedback": "Incorrect. King tides may cause massive destruction in some local areas even if tides recede quickly."
+            }
+        ]
+    }
+]
