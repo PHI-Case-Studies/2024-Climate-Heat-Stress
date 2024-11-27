@@ -1,0 +1,174 @@
+[
+    {
+        "question": "What are some Adaptation and Mitigation Strategies for global heat stress?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "Nature-Based-Solutions",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Engineering Solutions",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "National Adaptation Plans",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Integration of National Adaptation Plans with PEPFAR COP planning",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Do nothing or wait-and-see approach where adaptation is delayed or does not happen soon.",
+                "correct": false,
+                "feedback": "Incorrect. The time to develop adaptation plans has come and we are already in the midst of a growing climate crisis."
+            }
+        ]
+    },
+    {
+        "question": "Why are Trees so Cool?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "Trees absorb carbon dioxide.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Trees provide shade and block the sun from heat absorptive surfaces such as concrete.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Trees remove air pollutants that can further heat the ground by the greenhouse effect.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Evapotranspiration where trees absorb water from the ground and disperse through their leaves to cool the air.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "All we need to do is to plan more trees and we can solve the climate crisis within a single solution.",
+                "correct": false,
+                "feedback": "Incorrect. Planting trees will definitely help to reduce urban heat islands and reduce carbon dioxide but will not be the only required adaptations."
+            }
+        ]
+    },
+    {
+        "question": "Why are sea grasses and seaweed and kelp so important?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "Sea grass is great for sequestration of carbon dioxide.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Seaweed is great for carbon dioxide sequestration and seaweed farming as a form of mariculture adaptation.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Kelp is great for wood burning stoves.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Kelp is great for sequestration of carbon dioxide and kelp farming as a form of mariculture adaptation.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "What are some components of a National Adaptation Plan?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "Conceptual Framework",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Governance Structure",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Policy and Planning Integration",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Federal government plans without waiting for provincial or sectoral involvement.",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "What are Sponge Cities?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "30 Cities within China that push for green infrastructure over gray infrastructure.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Sponge Cities seek to increase tree cover within cities and on rooftops of buildings.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Sponge Cities create permeable pavements to capture, slow down, and filter storm water.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Sponge Cities will prevent all cities from needing to relocate or other long-term adaptations.",
+                "correct": false,
+                "feedback": "Incorrect.  Sponge Cities are short-to-mid-term adaptations that buy time for longer-term adaptations that may include relocating cities inland with sea-level-rise."
+            }
+        ]
+    },
+    {
+        "question": "Why do we need to Embrace Ambiguity in climate adaptation planning?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "There is a venn diagram of Nature, Technology, and Society with overlapping uncertainty that we must embrace and not flee from for better adaptation plans and results.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "We must embrace ambiguity and develop coping strategies to manage uncertainty if our National Adaptation Plans are to be successful.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Some adaptations are going to work well and other adaptations may be maladaptations that actually make situations worse and need to be reversed or may require alternative coping strategies for uncertainty to work well within an ambiguous set of data and circumstances within the global climate crisis.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Climate change is fully deterministic and we can plan according to the best climate models and set-it-and-forget-it with our adaptation plans and coping strategies.",
+                "correct": false,
+                "feedback": "Incorrect. Factors can change.   For example, Sea-level-rise may occur much faster if Antarctic and Greenland ice sheets melt more quickly than expected."
+            }
+        ]
+    }
+]
