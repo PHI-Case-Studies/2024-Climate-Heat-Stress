@@ -1,0 +1,174 @@
+[
+    {
+        "question": "What do we mean by Modeling and Simulation?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "Modeling involves creating mathematical representations of the climate system.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Climate models help scientists to predict future climate conditions based upon assumptions about human activities and natural processes.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Simulation involves running these models to project how the climate system might respond under specific scenarios.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Simulations allow researchers to explore the consequences of different pathways of human activity such as carbon dioxide emissions.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "RCPs are Royal Climate Planning documents.",
+                "correct": false,
+                "feedback": "Incorrect.  RCPs are Representative Concentration Pathways which are standardized scenarios used in climate modeling."
+            }
+        ]
+    },
+    {
+        "question": "What is a Digital Twin?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "A digital twin is a virtual representation or digital replica of a physical object, system, process, or geographic location.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Digital twins are dynamic.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Digital twins reflect the current state of the modeled entity.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Digital twins have potential for bidirectional interaction.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Digital twins are immutable and do not evolve over time.",
+                "correct": false,
+                "feedback": "Incorrect. Digital twins can grow and evolve and they can change to reflect emergent conditions within a modeled geographic location."
+            }
+        ]
+    },
+    {
+        "question": "What are the Representative Concentration Pathways (RCPs) and how can we model future climate scenarios?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "RCPs are standardized scenarios used in climate modeling to represent different levels of radiative forcing by 2100.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "There are several standard RCPs including RCP2.6, RCP4.5, and RCP8.5.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "RCPs model changes in socioeconomic factors such as population growth, energy use, and policy decisons.",
+                "correct": false,
+                "feedback": "Incorrect. RCPs can be extended to include these factors and are then called Shared Socioeconomic Pathways (SSPs)."
+            },
+            {
+                "answer": "RCPs help us to explore the outcomes of varying levels of carbon dioxide emissions and concentration pathways..",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "How does modeling and simulation of various climate scenarios prevent situational awareness blindspots?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "Modeling and simulation of various climate scenarios helps urban planners and policy makers to explore what-if-scenarios for climate change.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Climate models can evolve to take into account emergent conditions and localized factors for better predictions in the future.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Simulation can help urban planners to test hypothetical interventions such as tree planting, sponge cities, and use of electric vehicles.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Modeling and Simulation can eliminate all uncertainty and amibiguity for climate scientists, urban planners, policy makers, and the public.",
+                "correct": false,
+                "feedback": "Incorrect. Ambiguity and Uncertainty will still need to be managed with coping strategies and evolving models and simulations."
+            }
+        ]
+    },
+    {
+        "question": "How could modeling and simulation of varous climate scenarios inform National Adaptation Plans?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "National Adaptation Plans need to understand scenarios of temperature increase, global heat stress, sea-level-rise, and other impacts.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Modeling and Simulation predictions can be used to forecast short-term, mid-term, and longer-term climate change impacts.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "National Adaptation Plans can benefit from understanding impacts of climate change but also understanding impacts of human decisions.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "National Adaptation Plans can set-it-and-forget-it with the right climate models and simulations.",
+                "correct": false,
+                "feedback": "Incorrect. Even the best climate change models and National Adaptation Plans will likely need to evolve to meet emerging conditions."
+            }
+        ]
+    },
+    {
+        "question": "Some adaptations may fail or may be maladaptations.  How could modeling and simulation help to course correct?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "Modeling and Simulation can compare outcomes with and without specific adapations to quantify and measure impacts of adaptations.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Modeling and Simulation can discover adaptations that lead to both better and worsened outcomes in terms of climate impacts.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Modeling and Simulation could help urban planners to test potential adaptations and alternative adaptations before real-world implementation.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Maladaptations can never be reversed and it is too late to change course and evolve once the National Adaptation Plans have begun.",
+                "correct": false,
+                "feedback": "Incorrect.  A good National Adaptation Plan will recognize the need for potential course corrections and evolve to meet emergent conditions."
+            }
+        ]
+    }
+]

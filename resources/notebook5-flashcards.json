@@ -1,0 +1,26 @@
+[
+    {
+        "front": "What do we mean by Modeling and Simulation?",
+        "back": "Modeling involves creating mathematical representations of the climate system; Simulation involves running these models to project how the climate system might respond under specific scenarios."
+    },
+    {
+        "front": "What is a Digital Twin?",
+        "back": "A digital twin is a virtual representation or digital replica of a physical object, system, process, or geographic location."
+    },
+    {
+        "front": "What are the Representative Concentration Pathways (RCPs) and how can we model future climate scenarios?",
+        "back": "RCPs are standardized scenarios used in climate modeling to represent different levels of radiative forcing by 2100."
+    },
+    {
+        "front": "How does modeling and simulation of various climate scenarios prevent situational awareness blindspots?",
+        "back": "Modeling and simulation of various climate scenarios helps urban planners and policy makers to explore what-if-scenarios for climate change."
+    }, 
+    {
+        "front": "How could modeling and simulation of various climate scenarios inform National Adaptation Plans?",
+        "back": "National Adaptation Plans need to understand scenarios of temperature increase, global heat stress, sea-level-rise, and other impacts."
+    },
+    {
+        "front": "Some adaptations may fail or may be maladaptations.  How could modeling and simulation help to course correct?",
+        "back": "Modeling and Simulation can compare outcomes with and without specific adapations to quantify and measure impacts of adaptations."
+    }
+]
