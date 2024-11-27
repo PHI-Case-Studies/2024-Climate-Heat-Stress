@@ -1,0 +1,26 @@
+[
+    {
+        "front": "What are some of the take-home messages from this workshop?",
+        "back": "Climate change includes global temperature increases, global heat stress, sea-level-rise, rise in infectious disease, increased morbidity and mortality."
+    },
+    {
+        "front": "What is the Climate Data Store?",
+        "back": "The Copernicus Climate Data Store is The Copernicus Climate Data Store (CDS) is a web-based platform that provides free access to a vast collection of climate data, including satellite observations, in-situ measurements, climate model projections, and seasonal forecasts, allowing users to explore past, present, and future climate information across the globe."
+    },
+    {
+        "front": "What is the Climate Data Store API?",
+        "back": "The Copernicus Climate Data Store API is The Copernicus Climate Data Store API (CDS API) is a programming interface that allows users to access and retrieve climate data from the Copernicus Climate Change Service's (C3S) Climate Data Store (CDS) programmatically using a programming language called Python."
+    },
+    {
+        "front": "What is healthsites.io?",
+        "back": "Healthsites.io is a free, open-source platform that creates and maintains a global map of health facilities. It utilizes data from OpenStreetMap(OSM)."
+    }, 
+    {
+        "front": "What is healthsites.io API?",
+        "back": "The Healthsites.io API is an online interface that allows developers to access and utilize a global database of healthcare facility locations, providing details like coordinates, services offered, and contact information, primarily sourced from OpenStreetMap(OSM) data."
+    },
+    {
+        "front": "How can modeling and simulation of future climate scenarios be a useful tool for global health and global HIV and TB programs such as PEPFAR?",
+        "back": "HIV and TB epidemic control will be impacted by climate change, global heat stress, sea-level-rise, crop loss, malnutrition, increased comorbidities, and more.  Modeling and simulation of future climate scenarios can potentially inform PEPFAR COP planning and integrate climate adaptation into those plans."
+    }
+]

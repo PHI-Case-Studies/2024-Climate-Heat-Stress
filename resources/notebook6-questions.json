@@ -1,0 +1,174 @@
+[
+    {
+        "question": "What are some of the take-home messages from this workshop?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "Climate change includes global temperature increases, global heat stress, sea-level-rise, rise in infectious disease, increased morbidity and mortality.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Global heat-stress is more than just days of deadly heat.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Sea-level-Rise is another dimension of global temperature increases and impacts to coastal populations.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "We can access and use climate data using the Climate Data Store and Climate Data Store API using the python programming language.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Global heat-stress could be eliminated with strict reductions in carbon dioxide emissions.",
+                "correct": false,
+                "feedback": "Incorrect. Global heat-stress is still likely to impacts part of the planet even under the RCP2.6 pathway."
+            }
+        ]
+    },
+    {
+        "question": "What is the Climate Data Store?",
+        "type": "many_choice",
+        "answer_cols": 4,
+        "answers": [
+            {
+                "answer": "The Copernicus Climate Data Store is The Copernicus Climate Data Store (CDS) is a web-based platform that provides free access to a vast collection of climate data, including satellite observations, in-situ measurements, climate model projections, and seasonal forecasts, allowing users to explore past, present, and future climate information across the globe.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The Climate Data Store datasets are typically provided in either netcdf or geotiff formats.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The Climate Data Store datasets in netcdf files utilize a hiearchical data format with self-describing metadata.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The Climate Data Store includes an interactive climate atlas.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The Climate Data Store requires a subscription fee.",
+                "correct": false,
+                "feedback": "Incorrect. At this moment in time it is free to access and use the Climate Data Store datasets."
+            }
+        ]
+    },
+    {
+        "question": "What is the Climate Data Store API?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "The Copernicus Climate Data Store API is The Copernicus Climate Data Store API (CDS API) is a programming interface that allows users to access and retrieve climate data from the Copernicus Climate Change Service's (C3S) Climate Data Store (CDS) programmatically using a programming language called Python.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The Climate Data Store API utilizes an API request to access and download data in various formats including netcdf, geotiff, or zip.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The Climate Data Store is difficult to use.",
+                "correct": false,
+                "feedback": "Incorrect. The Climate Data Store download interface also provides a button to provide the api code to leverage the data using python."
+            },
+            {
+                "answer": "The Climate Data Store API allows us to access both historical data as well as projections into the future to 2100.",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "What is healthsites.io?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "Healthsites.io is a free, open-source platform that creates and maintains a global map of health facilities. It utilizes data from OpenStreetMap(OSM).",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Healthsites.io contains health facility data with latitude and longitude coordinates of each health facility.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Healthsites.io data may contain the health facility names and other data attributes if provided by the OpenStreetMap data.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Healthsites.io can help users to find health insurance.",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "What is healthsites.io API?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "The Healthsites.io API is an online interface that allows developers to access and utilize a global database of healthcare facility locations, providing details like coordinates, services offered, and contact information, primarily sourced from OpenStreetMap(OSM) data.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The healthsites.io API is free to use.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The healthsites.io API does have some limits in terms of number of requests per day.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The healthsites.io API has no documentation or example codes.",
+                "correct": false,
+                "feedback": "Incorrect. The healthsites.io API has online documentation that includes example codes and api request parameter specificiations."
+            }
+        ]
+    },
+    {
+        "question": "How can modeling and simulation of future climate scenarios be a useful tool for global health and global HIV and TB programs such as PEPFAR?",
+        "type": "multiple_choice",
+        "answer_cols": 3,
+        "answers": [
+            {
+                "answer": "HIV and TB epidemic control will be impacted by climate change, global heat stress, sea-level-rise, crop loss, malnutrition, increased comorbidities, and more.  Modeling and simulation of future climate scenarios can potentially inform PEPFAR COP planning and integrate climate adaptation into those plans.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Climate change and global heat stress will impact some of the most vulnerable populations including persons living with HIV (PLHIV).",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Climate change and global heat stress modeling and simulation can model potential impacts to vulnerable populations and PLHIV.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "HIV and TB epidemics will not impacted by global heat stress, sea-level-rise and other climate change burdens.",
+                "correct": false,
+                "feedback": "Incorrect. There are many papers that suggest that there will be substantial increases in HIV infections rates, morbidity and mortality."
+            }
+        ]
+    }
+]
