@@ -12,3 +12,4 @@ dependencies:
   - geopandas
   - folium
   - leafmap
+  - micropip
