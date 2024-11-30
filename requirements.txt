@@ -1,1 +1,2 @@
-
+coreapi-cli
+jupyterquiz
