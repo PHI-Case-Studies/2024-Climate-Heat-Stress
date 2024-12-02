@@ -1,15 +1,26 @@
 name: cds-environment
 dependencies:
-  - numpy
-  - cdsapi
-  - pandas
-  - netCDF4
-  - dask
-  - xarray
-  - matplotlib
+  - bokeh
   - cartopy
-  - pandas
-  - geopandas
+  - cdsapi
+  - coreapi
+  - dask
   - folium
+  - geoviews
+  - holoviews
+  - hvplot
+  - geopandas
+  - json
+  - jupytercards
+  - jupyterlab
+  - jupyterquiz
   - leafmap
+  - matplotlib
   - micropip
+  - netCDF4
+  - numpy
+  - os
+  - pandas
+  - xarray
+  - zipfile
+  
