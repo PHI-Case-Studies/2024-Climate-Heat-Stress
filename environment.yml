@@ -15,7 +15,6 @@ dependencies:
 - jupyterlab
 - pip:
   - cdsapi
-  - DataAPI
   - holoviews
   - itables
   - jupytercards
