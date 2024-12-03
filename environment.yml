@@ -16,4 +16,6 @@ dependencies:
   - cdsapi
   - holoviews
   - itables
+  - jupytercards
+  - jupyterquiz
 name: cds-environment
