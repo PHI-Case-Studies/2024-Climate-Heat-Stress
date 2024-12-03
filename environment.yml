@@ -16,4 +16,4 @@ dependencies:
   - cdsapi
   - holoviews
   - itables
-name: binder-environment
+name: cds-environment
