@@ -119,7 +119,6 @@ dependencies:
   - libjpeg-turbo=3.0.0=hcfcfb64_1
   - libkml=1.3.0=h538826c_1021
   - liblapack=3.9.0=25_win64_mkl
-  - libmamba=2.0.2=h81425b0_2
   - libnetcdf=4.9.2=nompi_h92078aa_114
   - libparquet=17.0.0=ha915800_13_cpu
   - libpng=1.6.44=h3ca93ac_0
@@ -151,7 +150,6 @@ dependencies:
   - m2w64-gcc-libs-core=5.3.0=7
   - m2w64-gmp=6.1.0=2
   - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
-  - mamba=2.0.2=hde45397_2
   - mapclassify=2.8.1=pyhd8ed1ab_0
   - mathjax=3.0.0=0
   - matplotlib-base=3.8.4=py310hadb10a8_2
